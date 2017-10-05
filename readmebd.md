@@ -2,7 +2,7 @@
 * ১০ - ১৫ টা html tag। 
 * ৩ ভাগে সিএসএস লেখা(inline, internal, external). ৫ টা সিএসএস selector (clas, id, attribute, tag, pseudo). সিএসএস এর কালার(rgb, hexa, name), সাইজ(px, pt, em, %). margin, padding, float, clear, overflow, width, height
 * প্রোগ্রামিং এর কিছু concept: 
- ডাটা টাইপ- scaler(number, string, boolean), composite(array, object)
+ ডাটা টাইপ- scaler(number, string, boolean), composite(array, object)    
  control flow - iterative loop(for, while), conditional(if, else, elseif)  
  variable    
  function     
