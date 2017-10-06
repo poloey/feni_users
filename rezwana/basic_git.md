@@ -15,12 +15,12 @@ git init .
 git add .
 ~~~
 
-5. add github repo web address by following code
+5. add github repo web address by following command
 ~~~
 git remote add origin <Your Cv Repo git Web address>
 ~~~
 
-6. Now push your code in your git by following code
+6. Now push your code in your git by following command
 ~~~
 git push origin master
 ~~~
